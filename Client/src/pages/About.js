@@ -1,7 +1,7 @@
 import React from 'react';
 
 const About=()=>{
-    return <>my About us page</>
+    return <>Trying pull request</>
 }
 
 export default About;
